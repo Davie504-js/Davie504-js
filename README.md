@@ -31,7 +31,3 @@ You can click the Preview link to take a look at your changes.
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jas-Script&count_private=true&theme=radical" alt="Jas-Script" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jas-Script&count_private=true&theme=radical" alt="Jas-Script" />
 
-----
-Credit: [Jas-Script](https://github.com/Jas-Script)
-
-Last Edited on: 04/01/2021
